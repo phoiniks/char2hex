@@ -5,8 +5,7 @@ Sinn und Zweck des vorliegenden Programms:
 
 Sie haben eine binäre Datei vorliegen, aber den Quellcode gelöscht?
 Sie müssen den Text der Benutzerschnittstelle dringend verändern?
-Das Kompilat enthält aber noch alle Debugging-Symbole? Dann können Sie
-mit Hilfe von hexedit unter Umständen den Text noch verändern!
+Dann können Sie mit Hilfe von hexedit unter Umständen den Text noch verändern!
 Das Problem: hexedit stellt Ihnen aber leider nur eine hexadezimale
 Sicht auf die Binärdatei zur Verfügung. Wenn Sie hier längere Textpassagen
 verändern wollen, kann die Umformatierung von Zeichenketten
